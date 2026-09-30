@@ -1,2 +1,2 @@
-public class Moto extends Vehiculo{
+public class Moto {
 }
